@@ -72,7 +72,7 @@ const ContactSection = () => {
           <div className="space-y-6">
             <div className="rounded-sm overflow-hidden shadow-lg">
               <iframe
-                src="https://www.google.com/maps/place/Glamping+Entre+Nubes+Villa+de+Leyva/@5.6359733,-73.5462479,17z/data=!4m20!1m10!3m9!1s0x8e41d70077eaadff:0xc1da61bd27c6692f!2sGlamping+Entre+Nubes+Villa+de+Leyva!5m2!4m1!1i2!8m2!3d5.635968!4d-73.543673!16s%2Fg%2F11ms2jscf3!3m8!1s0x8e41d70077eaadff:0xc1da61bd27c6692f!5m2!4m1!1i2!8m2!3d5.635968!4d-73.543673!16s%2Fg%2F11ms2jscf3?entry=ttu&g_ep=EgoyMDI2MDQwMS4wIKXMDSoASAFQAw%3D%3D"
+                src="https://www.google.com/maps?q=Glamping%20Entre%20Nubes%20Villa%20de%20Leyva&z=17&output=embed"
                 width="100%"
                 height="280"
                 style={{ border: 0 }}
